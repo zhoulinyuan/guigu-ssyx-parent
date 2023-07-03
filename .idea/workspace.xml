@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4ad9f1f-72b3-484a-9e35-40029da76395" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../ios/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\ios\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Rai2Omzn6Lo2mdrzFXbe5Lcpl9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/javaProject/guigu-ssyx-parent/service/service-activity/src/main/resources",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.ignored.files",
+    "spring.configuration.checksum": "c2a06d11b6fcde34e9b0c28a570d8a0f",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaProject\guigu-ssyx-parent\service\service-activity\src\main\resources" />
+      <recent name="D:\javaProject\guigu-ssyx-parent\service\service-search\src\main\resources" />
+      <recent name="D:\javaProject\guigu-ssyx-parent\service\service-product\src\main\resources" />
+      <recent name="D:\javaProject\guigu-ssyx-parent\common\service-util\src\test\java\com\atguigu\ssyx" />
+      <recent name="D:\javaProject\guigu-ssyx-parent\common\common-util\src\main\java\com\atguigu\ssyx\common\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceUserApplication">
+    <configuration name="JwtHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.ssyx.common.utils.JwtHelper" />
+      <module name="common-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.ssyx.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.ssyx.common.utils.MD5" />
+      <module name="common-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.ssyx.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceActivityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-activity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.ssyx.ServiceActivityApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.ssyx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.ssyx.ServiceGatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.ssyx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="service-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.ssyx.ServiceUserApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.ssyx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JwtHelper" />
+      <item itemvalue="Application.MD5" />
+      <item itemvalue="Spring Boot.ServiceGatewayApplication" />
+      <item itemvalue="Spring Boot.ServiceUserApplication" />
+      <item itemvalue="Spring Boot.ServiceActivityApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceUserApplication" />
+        <item itemvalue="Spring Boot.ServiceGatewayApplication" />
+        <item itemvalue="Application.JwtHelper" />
+        <item itemvalue="Application.MD5" />
+        <item itemvalue="Spring Boot.ServiceActivityApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4ad9f1f-72b3-484a-9e35-40029da76395" name="Changes" comment="" />
+      <created>1687494385831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687494385831</updated>
+      <workItem from="1687494388288" duration="19577000" />
+      <workItem from="1687570534609" duration="44000" />
+      <workItem from="1687570592287" duration="131000" />
+      <workItem from="1687570772481" duration="1368000" />
+      <workItem from="1687572160992" duration="21355000" />
+      <workItem from="1687659570730" duration="15110000" />
+      <workItem from="1687753405821" duration="13606000" />
+      <workItem from="1687835673888" duration="4043000" />
+      <workItem from="1687847533147" duration="6936000" />
+      <workItem from="1687922403964" duration="11590000" />
+      <workItem from="1688007609955" duration="7527000" />
+      <workItem from="1688025955261" duration="5339000" />
+      <workItem from="1688114936569" duration="2018000" />
+      <workItem from="1688178710734" duration="10945000" />
+      <workItem from="1688274771745" duration="6870000" />
+      <workItem from="1688366246900" duration="351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

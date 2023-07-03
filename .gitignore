@@ -1,0 +1,13 @@
+# Project exclude paths
+/common/common-util/target/
+/common/rabbit_util/target/
+/common/service-util/target/
+/model/target/
+/service/service-acl/target/
+/service/service-activity/target/
+/service/service-product/target/
+/service/service-search/target/
+/service/service-sys/target/
+/service/service-user/target/
+/service-client/service-product-client/target/
+/service-gateway/target/
